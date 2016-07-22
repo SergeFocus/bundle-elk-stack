@@ -32,3 +32,9 @@ relations:
     - "elasticsearch:client"
   - - "logstash:elasticsearch"
     - "elasticsearch:client"
+tags:
+  - conjure-up-kibana
+  - conjure-up-logstash
+  - conjure-up-elasticsearch
+description: |
+  The Elastic Stack — that is Elasticsearch, Logstash, Kibana — are open source projects that help you take data from any source, any format and search, analyze, and visualize it in real time.
