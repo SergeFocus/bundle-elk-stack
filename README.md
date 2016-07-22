@@ -35,6 +35,12 @@ Built around Elastic components, it contains:
 
     juju deploy ~containers/bundle/elk-stack
 
+### Alternative
+
+This is a **conjure-up** enabled spell that can be deployed with:
+
+    conjure-up kibana
+
 ## Testing the deployment
 
 The services provide extended status reporting to indicate when they are ready:
